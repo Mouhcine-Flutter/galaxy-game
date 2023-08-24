@@ -1,4 +1,4 @@
-# galaxy-v3 GUI Kivy
+# galaxy-game-python GUI Kivy
 
 ## Live preview
 
