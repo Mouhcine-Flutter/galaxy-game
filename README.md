@@ -2,4 +2,4 @@
 
 ## Live preview
 
-<div><img style="width:300px;" src="images/demo.png"></div>
+<div><img style="width:800px;" src="images/demo.png"></div>
